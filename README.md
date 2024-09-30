@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 408
 - 📫 How to reach me 2958609294@qq.com
 - 😄 Pronouns: Perceiving/Intuitive/Logical
-- ⚡ Fun fact: hate Soybean!!!
+- ⚡ Fun fact: hate soybean
 
 <!---
 eyunle/eyunle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
