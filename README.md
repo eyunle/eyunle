@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @eyunle
 - 👀 I’m interested in 
-- 🌱 I’m currently learning 408
 - 📫 How to reach me 2958609294@qq.com
 
 <!---
